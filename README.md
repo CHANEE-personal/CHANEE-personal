@@ -1,4 +1,5 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CHANEE-personal&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHANEE-personal&layout=compact&theme=tokyonight)
 
 - 👋 Hi, I’m @CHANEE-personal
 - 👀 I’m interested in ...
