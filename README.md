@@ -1,7 +1,7 @@
-<!---![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CHANEE-personal&show_icons=true&theme=tokyonight)
---->
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=CHANEE-personal&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0" width=49.2% />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHANEE-personal&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANEE-personal&layout=compact&theme=tokyonight" width=49.2% />
+</div>
 
 <!---
 CHANEE-personal/CHANEE-personal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
